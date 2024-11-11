@@ -1,0 +1,66 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 10 Nov 2024 21:40:57 at https://demo.phlox.pro/agency-advertisement/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.phlox.pro/agency-advertisement/ -O1 "C:\Users\WDAGUtilityAccount\Desktop\web\web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:43:23	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=11
+21:43:23	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=11 to https://demo.phlox.pro/agency-advertisement/about/
+21:43:23	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=13
+21:43:23	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=13 to https://demo.phlox.pro/agency-advertisement/blog/
+21:43:48	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=757
+21:43:48	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=757 to https://demo.phlox.pro/agency-advertisement/portfolio/
+21:44:07	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=15
+21:44:07	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=15 to https://demo.phlox.pro/agency-advertisement/contact/
+21:44:07	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/contact/Please add google map API key in theme options. https://developers.google.com/maps/documentation/javascript/
+21:44:07	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/contact/Please add google map API key in theme options. https://developers.google.com/maps/documentation/javascript/ to https://demo.phlox.pro/agency-advertisement/contact/Please%20add%20google%20map%20API%20key%20in%20theme%20options.%20https:/developers.google.com/maps/documentation/javascript/
+21:44:07	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=779
+21:44:07	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=779 to https://demo.phlox.pro/agency-advertisement/portfolio/login-mobile-interface-illustrations-14/
+21:44:08	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=777
+21:44:08	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=777 to https://demo.phlox.pro/agency-advertisement/portfolio/intersting-stories-about-it-world/
+21:44:08	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=775
+21:44:08	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=775 to https://demo.phlox.pro/agency-advertisement/portfolio/the-difference-between-ui-and-ux-in-design/
+21:44:08	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=773
+21:44:08	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=773 to https://demo.phlox.pro/agency-advertisement/portfolio/designing-a-mobile-store-application/
+21:44:08	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=771
+21:44:08	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=771 to https://demo.phlox.pro/agency-advertisement/portfolio/beautiful-design-of-mobile-application/
+21:44:08	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=769
+21:44:08	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=769 to https://demo.phlox.pro/agency-advertisement/portfolio/some-new-ideas-for-branding/
+21:44:08	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=767
+21:44:08	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=767 to https://demo.phlox.pro/agency-advertisement/portfolio/store-advertising-banner-design/
+21:44:09	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=765
+21:44:09	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=765 to https://demo.phlox.pro/agency-advertisement/portfolio/buy-and-sell-first-class-electronics/
+21:44:09	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=759
+21:44:09	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=759 to https://demo.phlox.pro/agency-advertisement/portfolio/the-future-of-food-delivery-app-ui-kit/
+21:44:09	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=386
+21:44:09	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=386 to https://demo.phlox.pro/agency-advertisement/portfolio/providing-computer-services-to-companies/
+21:44:09	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=497
+21:44:09	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=497 to https://demo.phlox.pro/agency-advertisement/2020/06/24/triple-creative-multi-purpose-portfolio-template/
+21:44:09	Error: 	"Not Found" (404) at link https://demo.phlox.pro/agency-advertisement/author/ (from https://demo.phlox.pro/agency-advertisement/2020/06/24/triple-creative-multi-purpose-portfolio-template/)
+21:44:17	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=501
+21:44:17	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=501 to https://demo.phlox.pro/agency-advertisement/2020/06/24/more-productive-working-flow/
+21:44:17	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=807
+21:44:17	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=807 to https://demo.phlox.pro/agency-advertisement/2020/06/27/planning-for-a-strategy-in-a-very-large-company/
+21:44:17	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=810
+21:44:17	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=810 to https://demo.phlox.pro/agency-advertisement/2020/06/27/customer-problems-are-addressed-in-a-team/
+21:44:18	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=814
+21:44:18	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=814 to https://demo.phlox.pro/agency-advertisement/2020/06/27/online-methods-used-to-build-brand-awareness/
+21:44:18	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=817
+21:44:18	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=817 to https://demo.phlox.pro/agency-advertisement/2020/06/27/a-key-of-digital-marketing-is-to-raise-brand-awareness/
+21:44:18	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=820
+21:44:18	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=820 to https://demo.phlox.pro/agency-advertisement/2020/06/27/search-engine-optimization-techniques/
+21:44:18	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=823
+21:44:18	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=823 to https://demo.phlox.pro/agency-advertisement/2020/06/27/digital-marketing-activity-is-still-growing/
+21:44:34	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=384
+21:44:34	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=384 to https://demo.phlox.pro/agency-advertisement/portfolio/responsive-design-for-a-variety-of-sizes/
+21:44:34	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=382
+21:44:34	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=382 to https://demo.phlox.pro/agency-advertisement/portfolio/graphic-design-of-mobile-pages/
+21:44:35	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=380
+21:44:35	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=380 to https://demo.phlox.pro/agency-advertisement/portfolio/appearance-design-of-website-pages/
+21:44:35	Warning: 	Moved Permanently for https://demo.phlox.pro/agency-advertisement/?p=363
+21:44:35	Warning: 	File has moved from https://demo.phlox.pro/agency-advertisement/?p=363 to https://demo.phlox.pro/agency-advertisement/portfolio/implement-a-variety-of-internal-site-pages/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 38 seconds : 371 links scanned, 342 files written (43438962 bytes overall) [11653210 bytes received at 53455 bytes/sec], 37940101 bytes transferred using HTTP compression in 175 files, ratio 14%, 34.9 requests per connection
+(1 errors, 54 warnings, 0 messages)
