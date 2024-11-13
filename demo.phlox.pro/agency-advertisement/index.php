@@ -2,13 +2,13 @@
 <html class="no-js" lang="vi" >
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-        <meta charset="UTF-8" >
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <!-- devices setting -->
-        <meta name="viewport"   content="initial-scale=1,user-scalable=no,width=device-width">
+	<meta charset="UTF-8" >
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- devices setting -->
+	<meta name="viewport"   content="initial-scale=1,user-scalable=no,width=device-width">
 
-<!-- outputs by wp_head -->
-<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<!-- outputs by wp_head -->
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<link rel="stylesheet" id="ao_optimized_gfonts" href="https://fonts.googleapis.com/css?family=Questrial%3Aregular%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRaleway:500&amp;display=swap"><link media="all" href="wp-content/cache/autoptimize/208/css/autoptimize_1302e22d05fd3df6a5d8d4f052911935.css" rel="stylesheet"><title>Trường Thành Web - Thiết Kế Website Chuyên Nghiệp</title>
@@ -28,15 +28,20 @@
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://demo.phlox.pro/agency-advertisement/","url":"https://demo.phlox.pro/agency-advertisement/","name":"Agency advertisement Elementor WordPress Theme - Phlox Pro","isPartOf":{"@id":"https://demo.phlox.pro/agency-advertisement/#website"},"about":{"@id":"https://demo.phlox.pro/agency-advertisement/#organization"},"primaryImageOfPage":{"@id":"https://demo.phlox.pro/agency-advertisement/#primaryimage"},"image":{"@id":"https://demo.phlox.pro/agency-advertisement/#primaryimage"},"thumbnailUrl":"https://demo.phlox.pro/agency-advertisement/wp-content/uploads/sites/208/2020/06/Path-134-40x40.png","datePublished":"2020-06-22T06:21:54+00:00","dateModified":"2020-12-08T12:25:50+00:00","description":"There are many variations passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected or randomised .","breadcrumb":{"@id":"https://demo.phlox.pro/agency-advertisement/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://demo.phlox.pro/agency-advertisement/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://demo.phlox.pro/agency-advertisement/#primaryimage","url":"https://demo.phlox.pro/agency-advertisement/wp-content/uploads/sites/208/2020/06/Path-134.png","contentUrl":"https://demo.phlox.pro/agency-advertisement/wp-content/uploads/sites/208/2020/06/Path-134.png","width":577,"height":577},{"@type":"BreadcrumbList","@id":"https://demo.phlox.pro/agency-advertisement/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://demo.phlox.pro/agency-advertisement/#website","url":"https://demo.phlox.pro/agency-advertisement/","name":"Trường Thành Web - Thiết Kế Website Chuyên Ngành - Trường Thành Web - Thiết Kế Website Chuyên Ngành","description":"Just another Phlox Demos Sites site","publisher":{"@id":"https://demo.phlox.pro/agency-advertisement/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://demo.phlox.pro/agency-advertisement/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://demo.phlox.pro/agency-advertisement/#organization","name":"Trường Thành Web - Thiết Kế Website Chuyên Ngành - Trường Thành Web - Thiết Kế Website Chuyên Ngành","url":"https://demo.phlox.pro/agency-advertisement/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://demo.phlox.pro/agency-advertisement/#/schema/logo/image/","url":"https://demo.phlox.pro/agency-advertisement/wp-content/uploads/sites/208/2020/06/logo-header.png","contentUrl":"https://demo.phlox.pro/agency-advertisement/wp-content/uploads/sites/208/2020/06/logo-header.png","width":276,"height":86,"caption":"Trường Thành Web - Thiết Kế Website Chuyên Ngành - Trường Thành Web - Thiết Kế Website Chuyên Ngành "},"image":{"@id":"https://demo.phlox.pro/agency-advertisement/#/schema/logo/image/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
+	<!-- Bootstrap -->
+	
 
-<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
-<link href='https://fonts.gstatic.com/' crossorigin='anonymous' rel='preconnect' />
-<link rel="alternate" type="application/rss+xml" title="Trường Thành Web - Thiết Kế Website Chuyên Ngành - Trường Thành Web - Thiết Kế Website Chuyên Ngành  &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Trường Thành Web - Thiết Kế Website Chuyên Ngành - Trường Thành Web - Thiết Kế Website Chuyên Ngành  &raquo; Comments Feed" href="comments/feed/index.html" />
-<script type="36dc72f8d1b565fbefdacdda-text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.phlox.pro\/agency-advertisement\/wp-includes\/js\/wp-emoji-release.min.js"}};
-/*! This file is auto-generated */
-!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+	<!-- fontawesome -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+	<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
+	<link href='https://fonts.gstatic.com/' crossorigin='anonymous' rel='preconnect' />
+	<link rel="alternate" type="application/rss+xml" title="Trường Thành Web - Thiết Kế Website Chuyên Ngành - Trường Thành Web - Thiết Kế Website Chuyên Ngành  &raquo; Feed" href="feed/index.html" />
+	<link rel="alternate" type="application/rss+xml" title="Trường Thành Web - Thiết Kế Website Chuyên Ngành - Trường Thành Web - Thiết Kế Website Chuyên Ngành  &raquo; Comments Feed" href="comments/feed/index.html" />
+	<script type="36dc72f8d1b565fbefdacdda-text/javascript">
+	window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.phlox.pro\/agency-advertisement\/wp-includes\/js\/wp-emoji-release.min.js"}};
+	/*! This file is auto-generated */
+	!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
 <style>
 img.wp-smiley,
@@ -284,8 +289,8 @@ border-radius: 10px;
     <style>
 	@media screen and (min-width: 700px){
 		.aux-goto-top-btn {
-			right: 120px;
-			bottom: 52px;
+			right: 60px;
+			bottom: 60px;
 		}
 	}
     </style>
@@ -329,11 +334,11 @@ border-radius: 10px;
 		</li>
 		<!-- end single menu -->
 		<!-- start single menu -->
-		<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18 aux-menu-depth-0 aux-menu-root-3 aux-menu-item">
+		<!-- <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18 aux-menu-depth-0 aux-menu-root-3 aux-menu-item">
 			<a href="blog/index.html" class="aux-item-content">
 				<span class="aux-menu-label">Tin Tức</span>
 			</a>
-		</li>
+		</li> -->
 		<!-- end single menu -->
 		<!-- start single menu -->
 		<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231 aux-menu-depth-0 aux-menu-root-4 aux-menu-item">
@@ -416,7 +421,9 @@ border-radius: 10px;
             <div class="aux-widget-inner">
 				<h5 class="aux-modern-heading-primary">Trường Thành Web</h5>
 				<h1 class="aux-modern-heading-secondary">
-					<span class="aux-head-highlight" style="font-family: Arial;">CUNG CẤP GIẢI PHÁP WEBSITE CHUYÊN NGÀNH</span>
+					<span class="aux-head-highlight" style="font-family: Arial;">Cung Cấp Giải Pháp
+                                                            Website Chuyên
+                                                            Ngành.</span>
 				</h1>
 				<div class="aux-modern-heading-description">
 					<p>Trường Thành Web là đơn vị hàng đầu về cung cấp giải pháp thiết kế website cho từng chuyên ngành</p>
@@ -1834,16 +1841,28 @@ When, while the lovely valley teems with vapor around  ...</p><div class="clear"
 		}
 	}
 })();
-</script><!-- Mailchimp for WordPress v4.9.18 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-83" method="post" data-id="83" data-name="" ><div class="mc4wp-form-fields"><p>
-	<label>
-		<input type="email" name="EMAIL" placeholder="Nhập email của bạn" required />
-</label>
-</p>
-
-<p>
-	<input type="submit" style="font-family: Arial;" value="Đăng Ký Nhận Ưu Đãi" />
-</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1731246516" /><input type="hidden" name="_mc4wp_form_id" value="83" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->		</div>
-				</div>
+</script><!-- Mailchimp for WordPress v4.9.18 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
+	<!-- Send Email -->
+	<form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-83" method="POST" data-id="83" data-name="" >
+		<div class="mc4wp-form-fields">
+			<p>
+				<label>
+					<input type="email" id="email" name="EMAIL" placeholder="Nhập email của bạn" required />
+				</label>
+			</p>
+			<p>
+				<input id="btnSubmitContact" type="submit" style="font-family: Arial;" value="Đăng Ký Nhận Liên Hệ" />
+			</p>
+		</div>
+		<label style="display: none !important;">Leave this field empty if you're human: 
+			<input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" />
+		</label>
+		<input type="hidden" name="_mc4wp_timestamp" value="1731246516" />
+		<input type="hidden" name="_mc4wp_form_id" value="83" />
+		<input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" />
+		<div class="mc4wp-response"></div>
+	</form><!-- / Mailchimp for WordPress Plugin --></div>
+	</div>
 						</div>
 					</div>
 		</div>
@@ -1907,7 +1926,7 @@ When, while the lovely valley teems with vapor around  ...</p><div class="clear"
 		<!-- start single menu -->
 		<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107 aux-menu-depth-0 aux-menu-root-3 aux-menu-item">
 			<a href="contact/index.html" class="aux-item-content">
-				<span class="aux-menu-label" style="font-family: Arial;">Liên Hệ</span>
+				<span class="aux-menu-label" style="font-family: Arial;">Tin Tức</span>
 			</a>
 		</li>
 		<!-- end single menu -->
@@ -1927,7 +1946,7 @@ When, while the lovely valley teems with vapor around  ...</p><div class="clear"
 				<div class="elementor-widget-container">
 			<section class="aux-widget-modern-heading">
 					<div class="aux-widget-inner">
-						<h2 class="aux-modern-heading-primary" style="font-family: Arial;">Liên hệ</h2>
+						<h2 class="aux-modern-heading-primary" style="font-family: Arial;">Liên Hệ</h2>
 						<div class="aux-modern-heading-description">
 							<p>(+84) 32 850 1599</p>
 							<p><a href="mailto:website.truongthanh@gmail.com">website.truongthanh@gmail.com</a></p>
@@ -2085,15 +2104,35 @@ When, while the lovely valley teems with vapor around  ...</p><div class="clear"
     </div>
 
     <div class="aux-goto-top-btn aux-align-btn-right" data-animate-scroll="1"><div class="aux-hover-slide aux-arrow-nav aux-round aux-outline">    <span class="aux-overlay"></span>    <span class="aux-svg-arrow aux-h-small-up"></span>    <span class="aux-hover-arrow aux-svg-arrow aux-h-small-up aux-white"></span></div></div>
-<!-- outputs by wp_footer -->
-<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="36dc72f8d1b565fbefdacdda-text/javascript">
-jQuery( function( $ ) {
-  	$( '.aux-sticky-button a[href*=".zip"]' ).click( function() {
-	  ga('send', 'event', 'Downloads', 'click', 'download-side-btns');
-	  ga('author_analytics.send', 'event', 'Downloads', 'click', 'download-side-btns');
-	});
-}) 
+	<!-- outputs by wp_footer -->
+	<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+	<script type="36dc72f8d1b565fbefdacdda-text/javascript">
+	jQuery( function( $ ) {
+		ga('send', 'event', 'Downloads', 'click', 'download-side-btns');
+		ga('author_analytics.send', 'event', 'Downloads', 'click', 'download-side-btns');
+	}) 
 </script>
+	<!-- auto slides -->
+	<!-- <script>
+		jQuery(function($) {
+			let currentSlide = 0;
+			const slides = $('.aux-mc-container .aux-mc-item');
+			const totalSlides = slides.length;
+
+			// Ẩn tất cả các slide trừ slide đầu tiên
+			slides.hide().eq(currentSlide).show();
+
+			// Tạo hàm để chuyển sang slide tiếp theo
+			function nextSlide() {
+				slides.eq(currentSlide).hide(); // Ẩn slide hiện tại
+				currentSlide = (currentSlide + 1) % totalSlides; // Cập nhật slide tiếp theo
+				slides.eq(currentSlide).show(); // Hiển thị slide mới
+			}
+
+			// Thiết lập tự động chuyển slide sau mỗi 3 giây
+			setInterval(nextSlide, 3000);
+		});
+	</script> -->
 <iframe src="https://phlox.pro/subs/chat-storage.html" id="chat-storage" style="display:none"></iframe>
 
 <script type="36dc72f8d1b565fbefdacdda-text/javascript">
@@ -2247,6 +2286,37 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <!-- end wp_footer -->
 <script defer src="wp-content/cache/autoptimize/208/js/autoptimize_cab05c36f10c6087e60397a7dc7cd9ee.js" type="36dc72f8d1b565fbefdacdda-text/javascript"></script><script src="../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="36dc72f8d1b565fbefdacdda-|49" defer></script></body>
 
-<!-- Mirrored from demo.phlox.pro/agency-advertisement/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Nov 2024 14:41:40 GMT -->
+<!-- Jquery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- AJAX send email to contact -->
+<script>
+	jQuery(function ($) {
+		$('#mc4wp-form-1').on('submit', function (e) {
+			e.preventDefault()
+
+			const email = $('#email').val()
+			const data = {
+				'email': email
+			}
+
+			$.ajax({
+				url: 'contact/services/serviceContact.php',
+				method: 'POST',
+				data: JSON.stringify(data),
+				contentType: 'application/json', // Đặt kiểu dữ liệu là JSON
+				dataType: 'json', // Định dạng dữ liệu mong đợi từ server
+				success: function(response) {
+					window.location.href = `index.php?msg=${response.msg}`
+					// hiển thị toasts
+				},
+				error: function(xhr, status, error) {
+					window.location.href = `index.php?msg=${response.msg}`
+				}
+			})
+
+		})
+	})
+</script>
+
 </html>
-<!-- Cache Enabler by KeyCDN @ Sun, 10 Nov 2024 13:48:36 GMT (https-index.html) -->
